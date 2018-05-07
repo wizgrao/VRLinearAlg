@@ -12,12 +12,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/2642b2e0bb07cff43f59547275c3d3bd78470dbe/output/jars/classes.jar"
+        jar="/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a008a0b3cdc09c8b37fd39fa7e112b1c5b487d50">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f999bafb76ef9699cae494dade95f7bdf643dd34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/.android/build-cache/44c3c476bcd0fe85af2e1374ae2ce4360e62c8a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b434956ac497f594a9352f3aacdb5f048dc3ff39">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_a0117349d5bcd4a75e2a8787249c793ca194871f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/.android/build-cache/55d40380d94928255b313e8573472bb47e4364b0/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_3ea5264efce39219b73b4d29c365c7441bbf19eb.jar" />
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_62517083f4dd7485b919c9fb41a4cd7dcd70f130.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,39 +48,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/1c1c34a037133e014a66589a1c5ea7a3abb1c8d7/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="1b85ed744e864fccf4fe6ee1c5ef16ea5a1e2fe2">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_365df3a22bb11b1edebbe1fe6403409f52531d46.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/2c2770bcec511b09f145b99023debe51861d33a1/output/jars/classes.jar"
+        jar="/Users/kevinzhang/.android/build-cache/34331c90235f6c1484a3b3abd8cda240bd70b8ed/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="bd30ddc32173ef9dd69fe1895ce89831ef227596">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_afa1aad6d67f86556c3c2e6115ffa39576a4d0cb.jar" />
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_568fc09f4ef3a388d1746636a51ccfc320b7c60f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/jars/classes.jar"
+        jar="/Users/kevinzhang/.android/build-cache/3abc8227388887c67ceb9b4fedc64f842dd91bf6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="a008a0b3cdc09c8b37fd39fa7e112b1c5b487d50">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_887eeda8d8fd51e0db537bb6702ae98c835a13aa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/d006c59139eee0dbeda55ed2385053d64699b960/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="b434956ac497f594a9352f3aacdb5f048dc3ff39">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f63ae140e58f66a9679d69c3aabad8334ecef8fe.jar" />
+        sha1="1b85ed744e864fccf4fe6ee1c5ef16ea5a1e2fe2">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_722dc66956c0cc2a99458305890c78fd19f3cbd6.jar" />
     </item>
 
 </items>

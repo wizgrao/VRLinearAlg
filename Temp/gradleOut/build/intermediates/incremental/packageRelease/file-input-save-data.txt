@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon May 07 16:49:19 PDT 2018
+#Mon May 07 16:58:01 PDT 2018
 60.set=ANDROID_RESOURCE
 52.set=ANDROID_RESOURCE
 53.base=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/assets/release
@@ -129,7 +129,7 @@
 103.file=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.GridModule.dll
 15.set=ASSET
 93.set=ANDROID_RESOURCE
-19.file=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/quantum_ic_settings_white_24.png
+19.file=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-ldrtl-v17/settings_button.xml
 85.set=ANDROID_RESOURCE
 34.base=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/assets/release
 66.file=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/assets/release/bin/Data/ca71259be6348485abbe393157796cb8
@@ -179,7 +179,7 @@
 91.set=ASSET
 83.set=ASSET
 109.file=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/assets/release/bin/Data/Managed/UnityEngine.IMGUIModule.dll
-18.file=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout-ldrtl-v17/settings_button.xml
+18.file=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/quantum_ic_settings_white_24.png
 75.set=ASSET
 33.base=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/assets/release
 65.file=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/resources-release.ap_/res/layout/settings_button.xml

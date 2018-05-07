@@ -1,22 +1,22 @@
 [
     {
         "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout/ui_layer_with_portrait_support.xml",
-        "source": "/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/res/layout/ui_layer_with_portrait_support.xml"
+        "source": "/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/res/layout/ui_layer_with_portrait_support.xml"
     },
     {
         "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout/back_button.xml",
-        "source": "/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/res/layout/back_button.xml"
+        "source": "/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/res/layout/back_button.xml"
     },
     {
         "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout/transition_view.xml",
-        "source": "/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/res/layout/transition_view.xml"
+        "source": "/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/res/layout/transition_view.xml"
     },
     {
         "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout/ui_layer.xml",
-        "source": "/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/res/layout/ui_layer.xml"
+        "source": "/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/res/layout/ui_layer.xml"
     },
     {
         "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout/settings_button.xml",
-        "source": "/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/res/layout/settings_button.xml"
+        "source": "/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/res/layout/settings_button.xml"
     }
 ]

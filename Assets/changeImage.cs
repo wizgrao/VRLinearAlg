@@ -10,7 +10,7 @@ public class changeImage : MonoBehaviour {
 	public Sprite text3;
 	public Sprite text4;
 	public Sprite text5;
-	public GameObject targetVec;
+	public animate targetVec;
 	Image image;
 	int counter;
 
@@ -35,6 +35,7 @@ public class changeImage : MonoBehaviour {
 		} else if (counter == 2) {
 			image.sprite = text4;
 			counter = 3;
+			targetVec.setAnimation ();
 		} else if (counter == 3) {
 			image.sprite = text5;
 			counter = 4;

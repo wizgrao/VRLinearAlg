@@ -23,7 +23,7 @@ public class animate : MonoBehaviour {
 		if (animation && (counter < ((int) del)) && !finished) {
 			transform.Rotate (0f, 0f, .1f);
 			transform.localScale += new Vector3 (0f, 0.002f, 0f);
-			Debug.Log (counter);
+			counter += 1;
 			if (counter == 200) {
 				finished = true;
 			}
