@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/back_button.xml",
+        "source": "/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/settings_button.xml",
+        "source": "/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/res/layout-land/ui_layer_with_portrait_support.xml"
+    }
+]

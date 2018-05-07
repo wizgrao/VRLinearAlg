@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/cardboard_test/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_887a01974defc171561f10217dedaa9df945d07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/.android/build-cache/2642b2e0bb07cff43f59547275c3d3bd78470dbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_3ea5264efce39219b73b4d29c365c7441bbf19eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/cardboard_test/Temp/gradleOut/libs/libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/libprotobuf-java-nano_f0c87e405300f2028b3393a16e272d93a010be1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/.android/build-cache/1c1c34a037133e014a66589a1c5ea7a3abb1c8d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b85ed744e864fccf4fe6ee1c5ef16ea5a1e2fe2">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_365df3a22bb11b1edebbe1fe6403409f52531d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/.android/build-cache/2c2770bcec511b09f145b99023debe51861d33a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bd30ddc32173ef9dd69fe1895ce89831ef227596">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_afa1aad6d67f86556c3c2e6115ffa39576a4d0cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/.android/build-cache/fec41629783bcd56358629d53fe68910da0a0479/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a008a0b3cdc09c8b37fd39fa7e112b1c5b487d50">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_887eeda8d8fd51e0db537bb6702ae98c835a13aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/.android/build-cache/d006c59139eee0dbeda55ed2385053d64699b960/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b434956ac497f594a9352f3aacdb5f048dc3ff39">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f63ae140e58f66a9679d69c3aabad8334ecef8fe.jar" />
+    </item>
+
+</items>
