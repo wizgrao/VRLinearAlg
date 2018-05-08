@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon May 07 16:58:01 PDT 2018
+#Mon May 07 17:00:39 PDT 2018
 60.set=ANDROID_RESOURCE
 52.set=ANDROID_RESOURCE
 53.base=/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/assets/release

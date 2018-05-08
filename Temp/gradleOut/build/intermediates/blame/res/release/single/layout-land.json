@@ -1,14 +1,14 @@
 [
     {
         "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/back_button.xml",
-        "source": "/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/res/layout-land/back_button.xml"
+        "source": "/Users/kevinzhang/.android/build-cache/eacfdf90507dfd26e5ad113fa0bc6b9b91e17656/output/res/layout-land/back_button.xml"
     },
     {
         "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/settings_button.xml",
-        "source": "/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/res/layout-land/settings_button.xml"
+        "source": "/Users/kevinzhang/.android/build-cache/eacfdf90507dfd26e5ad113fa0bc6b9b91e17656/output/res/layout-land/settings_button.xml"
     },
     {
         "merged": "/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/res/merged/release/layout-land/ui_layer_with_portrait_support.xml",
-        "source": "/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/res/layout-land/ui_layer_with_portrait_support.xml"
+        "source": "/Users/kevinzhang/.android/build-cache/eacfdf90507dfd26e5ad113fa0bc6b9b91e17656/output/res/layout-land/ui_layer_with_portrait_support.xml"
     }
 ]

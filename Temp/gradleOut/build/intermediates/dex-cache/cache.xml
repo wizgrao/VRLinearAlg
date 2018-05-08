@@ -12,30 +12,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/06912b2402ad6cde3f0740b917fe3bcc114534a3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="a008a0b3cdc09c8b37fd39fa7e112b1c5b487d50">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f999bafb76ef9699cae494dade95f7bdf643dd34.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/44c3c476bcd0fe85af2e1374ae2ce4360e62c8a6/output/jars/classes.jar"
+        jar="/Users/kevinzhang/.android/build-cache/2a02bd6aba00daa86e7da1004a912a488c741628/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="b434956ac497f594a9352f3aacdb5f048dc3ff39">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_a0117349d5bcd4a75e2a8787249c793ca194871f.jar" />
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_275d190e7157c7ad752ff9b4f7cb049bc8d1018e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/55d40380d94928255b313e8573472bb47e4364b0/output/jars/classes.jar"
+        jar="/Users/kevinzhang/.android/build-cache/bcdee633fa5aeb18ab20f97f160c23ff295e4ed1/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_62517083f4dd7485b919c9fb41a4cd7dcd70f130.jar" />
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_3de501735e2e688374719fa35bad36a61169955e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,21 +39,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/34331c90235f6c1484a3b3abd8cda240bd70b8ed/output/jars/classes.jar"
+        jar="/Users/kevinzhang/.android/build-cache/288b3702256ddc3519839e4f69279b0055db92e2/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="bd30ddc32173ef9dd69fe1895ce89831ef227596">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_568fc09f4ef3a388d1746636a51ccfc320b7c60f.jar" />
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_4048fbf06390998f39d605973915c8c59d2fc25c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kevinzhang/.android/build-cache/3abc8227388887c67ceb9b4fedc64f842dd91bf6/output/jars/classes.jar"
+        jar="/Users/kevinzhang/.android/build-cache/0a1985872f2e75fbd40a230b9058abf1757215a6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="1b85ed744e864fccf4fe6ee1c5ef16ea5a1e2fe2">
-        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_722dc66956c0cc2a99458305890c78fd19f3cbd6.jar" />
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_610a7390023abdbe7fc1a6b1eaf6c2787b1c5dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinzhang/.android/build-cache/eacfdf90507dfd26e5ad113fa0bc6b9b91e17656/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a008a0b3cdc09c8b37fd39fa7e112b1c5b487d50">
+        <dex dex="/Users/kevinzhang/cardboard_test/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_ab36133249e9e24d70d5a557727ebe053b0b67cd.jar" />
     </item>
 
 </items>
